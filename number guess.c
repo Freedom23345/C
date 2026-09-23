@@ -19,5 +19,4 @@ int main()
   } while (a!=b);
   printf("you use %d times to get the right answer",c);
   return 0;
-  
 }
