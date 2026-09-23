@@ -2,6 +2,7 @@
 #include <stdio.h>
 int main()
 {
+    
     double number,court=0,sum=0;
     printf("please input some number,if you want stop ,please input 0\n");
     while (1) {
@@ -12,5 +13,5 @@ int main()
     court++;
     }
     printf("average number is%.2f",(sum/court));
-    return 0;
+    return 0; 
 }
