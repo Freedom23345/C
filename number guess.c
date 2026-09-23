@@ -4,7 +4,7 @@
 int main()
 {
   srand(time(0));
-  int a= rand()%20+1;
+  int a= rand()%100+1;
   int b=0,c=0;
   do
   {
