@@ -11,5 +11,5 @@ int main()
         scanf("%lf",&number);
     }
     printf("%.2f",(sum/court));
-    return 0;
+    return 0; 
 }
