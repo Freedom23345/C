@@ -8,6 +8,7 @@
 *   `number guess.c` - 一个简单的数字猜谜游戏
 *   `Number reversal.c` - 三种不同的数字反转
 *    `Factorial.c` - 两种阶乘的计算方法
+*    `Find prime numbers.c` - 寻找一定范围内的全体素数
 
 ## 🛠️ 如何运行
 你需要安装 C 语言编译器（如 GCC）。
