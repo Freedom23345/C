@@ -6,6 +6,7 @@
 *   `number average.plas.c` - 计算数字平均值的练习
 *   `number average.c` - 平均数计算的另一种实现
 *   `number guess.c` - 一个简单的数字猜谜游戏
+*   `Number reversal.c` - 三种不同的数字反转
 
 ## 🛠️ 如何运行
 你需要安装 C 语言编译器（如 GCC）。
